@@ -23,7 +23,7 @@
               <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md#2200-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%D9%87%D8%B1"> 2.2.0.0 الظواهر</a> </li>
             </ul>
           </li>
-          <li> <a href=""> 3.0.0 كل شيء متصل</a> </li>
+          <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md#300-%D9%83%D9%84-%D8%B4%D9%8A%D8%A1-%D8%AD%D9%88%D9%84%D9%86%D8%A7-%D9%85%D8%AA%D8%B5%D9%84"> 3.0.0 كل شيء حولنا متصل </a> </li>
           <li> <a href=""> 4.0.0 نمط الكسيريات</a> </li>
           <li> <a href=""> 5.0.0 تصميم الأنظمة ومعمارياتها</a> </li>
           <li> <a href=""> 6.0.0 الخلاصة</a> </li>
