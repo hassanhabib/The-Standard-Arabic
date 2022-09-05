@@ -32,3 +32,18 @@
     </ul>
   </li>
 </ul>
+
+
+## ترجمات
+- [المعيار باللغة الإنكليزية](https://github.com/hassanhabib/The-Standard)
+- [المعيار باللغة الأوكرانية](https://github.com/hassanhabib/The-Standard-Ukrainian)
+- [المعيار باللغة الفرنسية](https://github.com/hassanhabib/The-Standard-French)
+- [المعيار باللغة الإيطالية](https://github.com/hassanhabib/The-Standard-Italian)
+- [المعيار باللغة الماليزية](https://github.com/hassanhabib/The-Standard-Malaysian)
+- [المعيار باللغة الأوزبكية](https://github.com/hassanhabib/The-Standard-Uzbek)
+- [المعيار باللغة الألمانية](https://github.com/hassanhabib/The-Standard-German)
+- [المعيار باللغة الإسبانية](https://github.com/hassanhabib/The-Standard-Spanish)
+- [المعيار باللغة التركية](https://github.com/hassanhabib/The-Standard-Turkish)
+- [المعيار باللغة اليونانية](https://github.com/hassanhabib/The-Standard-Greek)
+- [المعيار باللغة الألبانية](https://github.com/hassanhabib/The-Standard-Albanian)
+- [المعيار باللغة البرتغالية](https://github.com/hassanhabib/The-Standard-Portuguese)
