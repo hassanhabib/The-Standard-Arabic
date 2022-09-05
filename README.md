@@ -14,8 +14,8 @@
     <ul>
       <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md"> 0.0 النظرية </a>
         <ul>
-          <li> <a href=""> 0.0.0 مقدمة</a> </li>
-          <li> <a href=""> 1.0.0 البحث عن الأجوبة</a> </li>
+          <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md#000%D9%85%D9%82%D8%AF%D9%85%D8%A9"> 0.0.0 مقدمة</a> </li>
+          <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md#100%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A8"> 1.0.0 البحث عن الأجوبة</a> </li>
           <li> <a href=""> 2.0.0 نظرية الثلاثيات</a>
             <ul>
               <li> <a href=""> 0.2.0.0 المقاصد</a> </li>
