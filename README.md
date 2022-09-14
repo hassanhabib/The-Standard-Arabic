@@ -29,6 +29,11 @@
           <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9/0.0%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9.md#600-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9"> 6.0.0 الخلاصة</a> </li>
         </ul>
       </li>
+      <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#10-%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9"> 1.0 التقصيد والنمذجة والمحاكاة</a>
+        <ul>
+          <li><a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#010-%D9%85%D9%82%D8%AF%D9%85%D8%A9">0.1.0 مقدمة</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
