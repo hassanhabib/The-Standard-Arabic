@@ -55,3 +55,4 @@
 - [المعيار باللغة البرتغالية](https://github.com/hassanhabib/The-Standard-Portuguese)
 - [المعيار باللغة السنهالية](https://github.com/hassanhabib/The-Standard-Sinhala)
 - [المعيار باللغة الهندية](https://github.com/hassanhabib/The-Standard-Hindi)
+- [المعيار باللغة البلغارية](https://github.com/hassanhabib/The-Standard-Bulgarian)
