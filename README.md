@@ -32,7 +32,11 @@
       <li> <a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#10-%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9"> 1.0 التقصيد والنمذجة والمحاكاة</a>
         <ul>
           <li><a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#010-%D9%85%D9%82%D8%AF%D9%85%D8%A9">0.1.0 مقدمة</a></li>
-                    <li><a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#110-%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF">1.1.0 التقصيد</a></li>
+                    <li><a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#110-%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF">1.1.0 التقصيد</a>
+                      <ul>
+                        <li><a href="https://github.com/hassanhabib/The-Standard-Arabic/blob/master/0.%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9/0.1%20%D8%A7%D9%84%D8%AA%D9%82%D8%B5%D9%8A%D8%AF%20%D9%88%D8%A7%D9%84%D9%86%D9%85%D8%B0%D8%AC%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md#0110-%D8%A7%D9%84%D8%B4%D9%87%D9%88%D8%AF">0.1.1.0 الشهود</a>
+                      <ul>
+                    </li>
         </ul>
       </li>
     </ul>
@@ -56,3 +60,5 @@
 - [المعيار باللغة السنهالية](https://github.com/hassanhabib/The-Standard-Sinhala)
 - [المعيار باللغة الهندية](https://github.com/hassanhabib/The-Standard-Hindi)
 - [المعيار باللغة البلغارية](https://github.com/hassanhabib/The-Standard-Bulgarian)
+- [المعيار باللغة البولندية](https://github.com/hassanhabib/The-Standard-Polish)
+- [المعيار باللغة الأردية](https://github.com/hassanhabib/The-Standard-Urdu)
