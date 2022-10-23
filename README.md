@@ -63,3 +63,8 @@
 - [المعيار باللغة البلغارية](https://github.com/hassanhabib/The-Standard-Bulgarian)
 - [المعيار باللغة البولندية](https://github.com/hassanhabib/The-Standard-Polish)
 - [المعيار باللغة الأردية](https://github.com/hassanhabib/The-Standard-Urdu)
+
+## المعيار بلغات برمجية مختلفة
+- [المعيار بلغة قو](https://github.com/hassanhabib/StandardGoLang)
+- [المعيار بلغة سكالا](https://github.com/hassanhabib/StandardScala)
+- [المعيار بلغةآر](https://github.com/hassanhabib/StandardR)
