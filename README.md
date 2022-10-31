@@ -68,3 +68,4 @@
 - [المعيار بلغة قو](https://github.com/hassanhabib/StandardGoLang)
 - [المعيار بلغة سكالا](https://github.com/hassanhabib/StandardScala)
 - [المعيار بلغة آر](https://github.com/hassanhabib/StandardR)
+- [المعيار بلغة كوتلن](https://github.com/hassanhabib/StandardKotlin)
