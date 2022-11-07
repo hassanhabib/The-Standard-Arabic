@@ -69,3 +69,4 @@
 - [المعيار بلغة سكالا](https://github.com/hassanhabib/StandardScala)
 - [المعيار بلغة آر](https://github.com/hassanhabib/StandardR)
 - [المعيار بلغة كوتلن](https://github.com/hassanhabib/StandardKotlin)
+- [المعيار بلغة الجافا](https://github.com/hassanhabib/StandardJava)
